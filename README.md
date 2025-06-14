@@ -9,6 +9,6 @@
 | No | Nama                      | NRP         |
 |----|---------------------------|-------------|
 | 1  | Nadiah Nuri Aisyah       | 5025211210  |
-| 2  | Meyroja Jovancha Firoos  | 5025211204  |
+
 
 ---
